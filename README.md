@@ -1,8 +1,15 @@
+=======================
 # Update_Console_Color
+=======================
+
+-------------------------------------------
 Change Text-Background Color in the console
+-------------------------------------------
 
-Language: C#
+- Language: C#
 
-Contribution
-
-@sofoste93
+>
+> # Contribution
+>
+> - @sofoste93
+>
