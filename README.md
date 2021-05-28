@@ -3,7 +3,10 @@
 ==============================
 
 -------------------------------------------
-Change Text-Background Color in the console
+Change Console Color: 
+
+- Background color
+- Foreground color 
 -------------------------------------------
 
 - Language: C#
